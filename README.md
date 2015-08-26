@@ -5,6 +5,8 @@ Simple page/script which makes it faster to check if your 301 rules work.
 
 **This has been a quick built just for use as a development tool.**
 
+![screenshot of the mainpage](http://i.imgur.com/CknpYuy.png)
+
 Authors
 -------
 
